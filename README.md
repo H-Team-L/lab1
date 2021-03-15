@@ -1,2 +1,1 @@
-# lab1
-Lab1 WA-1
+# Lab 1 WA-1
